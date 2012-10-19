@@ -1,0 +1,3 @@
+/^https:\/\/\[^\/]+github.com/
+/^https:\/\/\[^\/]+dropbox\.com/
+.blogspot.jp
