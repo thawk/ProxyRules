@@ -1,6 +1,6 @@
 [AutoProxy 0.2.9]
-! Checksum: Q4SvhI44CvYUBXyeAz9A/g
+! Checksum: T42rYDHAktmmTMQmY0HzRQ
 
-/^https:\/\/\[^\/]+github.com/
-/^https:\/\/\[^\/]+dropbox\.com/
-.blogspot.jp
+!/^https:\/\/\[^\/]+github.com/
+!/^https:\/\/\[^\/]+dropbox\.com/
+!.blogspot.jp
